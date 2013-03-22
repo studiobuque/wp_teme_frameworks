@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"printr"
+			],
+			[
+				"the",
+				"themename"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"seco",
+				"secondary"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"sec",
+				"secondary"
+			],
+			[
+				"side_",
+				"side_bar_value"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"lo",
+				"locale_file"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"exi",
+				"existe"
+			],
+			[
+				"com",
+				"comunidad_cat"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"glo",
+				"globals	$GLOBALS['…']"
+			],
+			[
+				"gl",
+				"globals	$GLOBALS['…']"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"space",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"HT",
+				"Snippet: html"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/options-bkup.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/options.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/home.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/origen/Bigbusiness by FCT.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/functions.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/origen/framework/wordpress/options-framework-theme-master/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/footer.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/css/main.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/inc/options-interface.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/inc/options-framework.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/origen/framework/wordpress/options-framework-theme-master/functions.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/frmw/eddiemachado-bones-ea76d28/footer.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/sitio/plantilla/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville 24.01.2013/index.php",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/wp-content/themes/totustuus2/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/page-full.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/header.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/sidebar.php",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/wp-content/themes/totustuus2/css/estilo.css",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/wp-content/themes/totustuus2/style.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/style.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/library/bones.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/js/main.js",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/Prediseñadas/Grandesnegocios/js/plugins.js",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/cuenta.txt",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/radioeffeta/reproductor.php",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/radioeffeta/reproductor-pruebas.html",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/radioeffeta/reproductor.html",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/reproductor de audio.html",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/radioeffeta/usuarios.html",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/radioeffeta/swfobject.js",
+		"/Volumes/DD2 EMPRESA/bkup/Win/Paginas/www/arquidiocesisdetuxtla.org.mx/radioeffeta/player.swf",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/sidebar.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/footer.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/functions.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/library/bones.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/index.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/searchform.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/header.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/css/main.css",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/index.html",
+		"/Volumes/DD2 EMPRESA/wordpres/wordpress/index.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/sitio/index.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/library/translation/README",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/library/translation/translation.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/library/translation/es_ES.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/page-opcion.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/archive.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/css/gumby.css",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/js/main.js",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville 24.01.2013/js/main.js",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/js/plugins.js",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/style.css",
+		"/Users/eddyramos/Documents/CODIPAC/respaldos BD 2013.02.21/arquidio_nueva.sql.sql",
+		"/Users/eddyramos/Documents/CODIPAC/respaldos BD 2013.02.21/arquidio_arquidio.sql.sql",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/frmw/initializr/js/plugins.js",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/index_bones.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/index_gumby.html",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/origen/framework/html5/boilerplate/index.html",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/conclave/header.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/conclave/functions.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/origen/framework/wordpress/eddiemachado-bones-b84b334/functions.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/origen/framework/wordpress/eddiemachado-bones-b84b334/header.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/conclave/coonclave2013.sublime-project",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Clientes Anteriores/El Carrusel/html/wordpress/themes/carrusel/index.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Clientes Anteriores/El Carrusel/html/wordpress/themes/carrusel/partes/contacto.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/conclave/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/library/bones.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/page-custom.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/page.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/single.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/archive.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/index_boilerplate.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/index_gumby.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/library/css/ie.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/functions.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/functions_options_carrintong.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/footer.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/sidebar.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/css/gumby.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/css/style.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/style.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/css/imports.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/css/text.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/index.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/plantillas/mini-buque/mini_buque_wp/index_bones.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/templates/gratis/Warp Framework/yoo_master_demo_package_j25/._media",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/templates/gratis/Warp Framework/._yoo_master_demo_package_j25",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/framework/eddiemachado-bones-b84b334/footer.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/sitio/wp-config-sample.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/framework/audio-player/audio-player.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/comiciones.txt",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/css/style.css",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/home.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/conclave/footer.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/conclave/header.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/conclave/css/style.css",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/totus3/comiciones.txt",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/framework/gumby_12col/index.html",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/framework/conclave/header.php",
+		"/Users/eddyramos/Documents/CODIPAC/Internet/Marzo_2013/wp-config-sample.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/Imagen/Plantilla/Ada/fw/eddiemachado-bones-b84b334/style.css",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/Imagen/Plantilla/Ada/style.css",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/Imagen/Plantilla/Ada/fw/boilerplate/index.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville 24.01.2013/header.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/Imagen/Plantilla/Ada/fw/eddiemachado-bones-b84b334/._taxonomy-custom_cat.php",
+		"/Volumes/DD2 EMPRESA/Studio Buque/Oficina/Imagen/Plantilla/Ada/arquidiocesis.html",
+		"/Volumes/compartir/backup-2.2.2013_11-34-42_arquidio.tar.tar/backup-2.2.2013_11-34-42_arquidio/public_html/wp-content/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/contenido/sucursales/oaxaca.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/contenido/convenios.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/contenido/destacados.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/contenido/sucursal.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/index.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/css/imports.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/css/gumby.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/header.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/footer.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/css/style.css",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/index_gumby.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville0.2/functions.php",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/Plantilla/ville2.0/ideas/estaf.png",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/lista de correos grabarte con detalles",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/lista de correos grabarte.com",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/fut6/estadisticas.html",
+		"/Users/eddyramos/Documents/Studio Buque/Clientes/Grabarte/correos de sucursales grabarte.txt",
+		"/Volumes/servidor5.xperthost.com.mx/single.php",
+		"/Volumes/servidor5.xperthost.com.mx/parte/portada_exclisivos_galeria_de_imagenes.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"options_categories",
+			"image",
+			"inf",
+			"radio",
+			"multicheck_array",
+			"example_showhidden",
+			"optionsframework_custom_scripts",
+			"optionsframework_adminbar",
+			"last",
+			"first",
+			"section-list",
+			"list",
+			"home_url",
+			"bones_wpsearch",
+			" icon-right icon-search",
+			"bonestheme",
+			"bones_wpsearch",
+			"searc",
+			"page-navigation",
+			"rad",
+			"folleto2013_slide",
+			"td",
+			"th",
+			"ID",
+			"noveda",
+			"get_term_by",
+			".dropd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
